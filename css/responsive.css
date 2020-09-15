@@ -1,0 +1,407 @@
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+    .banner_txt {
+        margin-top: 464px;
+    }
+}
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .banner_txt {
+        margin-top: 262px;
+    }
+
+}
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    .banner_txt {
+        margin-top: 470px;
+    }
+
+    .awesome_icn {
+        padding-top: 40px;
+    }
+
+    .awesome_txt {
+        padding-top: 40px;
+    }
+
+    .awesome_icn i {
+        font-size: 40px;
+        padding: 30px;
+    }
+
+    .awesome_txt h2 {
+        font-size: 18px;
+        margin-top: 25px;
+    }
+
+    .awesome_txt h5 {
+        font-size: 15px;
+    }
+
+    .awesome_txt p {
+        font-size: 14px;
+    }
+
+    .nav-pills {
+        padding-left: 69px;
+    }
+
+    .creativ_txt {
+        padding-top: 5px;
+    }
+
+    .creativ_txt h1 {
+        font-size: 45px;
+    }
+
+    .creativ_txt h2 {
+        font-size: 22px;
+    }
+
+    .creative_btn {
+        padding-top: 0px;
+    }
+
+    .creative_btn a {
+        padding: 10px 25px;
+    }
+
+    .pricing_btn a {
+        padding: 6px 10px;
+    }
+
+    .clients_img2 {
+        margin-right: 70px;
+    }
+
+    .touch_item {
+        bottom: -532px;
+    }
+}
+
+
+/*medium device end*/
+
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 575.99px) and (max-width: 767.98px) {
+    .banner_txt {
+        margin-top: 262px;
+    }
+
+    .service_title {
+        padding: 20px 0;
+    }
+
+    .service_txt h2 {
+        font-size: 20px;
+        padding: 10px 0;
+    }
+
+    .servic_icn i {
+        margin-bottom: 5px;
+    }
+
+    .service_txt p {
+        font-size: 16px;
+        font-weight: 400;
+    }
+
+    .tutorial_title {
+        padding-top: 60px;
+    }
+
+    .tutorial_title h2 {
+        font-size: 20px;
+    }
+
+    .tutorial_title h5 {
+        font-size: 18px;
+        margin-bottom: 30px;
+    }
+
+    #team {
+        padding-top: 60px;
+    }
+
+    .team_icn {
+        text-align: center;
+    }
+
+    .manager_txt p {
+        padding: 0px 0px;
+    }
+
+    .team_title h2 {
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .team_title h4 {
+        font-size: 25px;
+        text-align: center;
+    }
+
+    .awesome_icn {
+        padding-top: 55px;
+        margin-left: 40px;
+    }
+
+    .awesome_txt {
+        padding-top: 30px;
+    }
+
+    .awesome_icn i {
+        font-size: 40px;
+        padding: 30px;
+    }
+
+    .awesome_txt h2 {
+        font-size: 18px;
+        margin-top: 25px;
+    }
+
+    .awesome_txt h5 {
+        font-size: 15px;
+    }
+
+    .awesome_txt p {
+        font-size: 14px;
+    }
+
+    .nav-pills {
+        padding-left: 20px;
+    }
+
+    .gal_btn {
+        margin-top: 0px;
+        font-size: 16px;
+        padding: 8px 15px;
+    }
+
+    .creativ_item .button {
+        font-size: 13px;
+    }
+
+    .creativ_txt {
+        padding-top: 5px;
+    }
+
+    .creativ_txt h1 {
+        font-size: 30px;
+    }
+
+    .creativ_txt h2 {
+        font-size: 16px;
+    }
+
+    .creative_btn {
+        padding-top: 0px;
+    }
+
+    .creative_btn a {
+        padding: 10px 15px;
+        font-size: 13px;
+    }
+
+    .hpy_clients {
+        padding-top: 30px;
+    }
+
+    .touch_item {
+        position: inherit;
+        padding: 0 0px;
+        margin-top: -100px;
+    }
+
+    .touch_item {
+        bottom: 170px;
+    }
+
+    .touch_contract {
+        margin-top: 30px;
+    }
+
+    .pricing_item {
+        margin-bottom: 20px;
+    }
+
+    .pricing_btn a {
+        padding: 6px 10px;
+    }
+
+    .clients_img2 {
+        margin-right: 70px;
+    }
+
+    .touch_item {
+        bottom: -532px;
+    }
+
+    #map {
+        margin-top: 50px;
+    }
+}
+
+/*// Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 375.98px) {
+    .banner_txt {
+        margin-top: 262px;
+    }
+
+    .service_title {
+        padding: 20px 0;
+    }
+
+    .service_txt h2 {
+        font-size: 20px;
+        padding: 10px 0;
+    }
+
+    .servic_icn i {
+        margin-bottom: 5px;
+    }
+
+    .service_txt p {
+        font-size: 16px;
+        font-weight: 400;
+    }
+
+    .tutorial_title {
+        padding-top: 60px;
+    }
+
+    .tutorial_title h2 {
+        font-size: 20px;
+    }
+
+    .tutorial_title h5 {
+        font-size: 18px;
+        margin-bottom: 30px;
+    }
+
+    #team {
+        padding-top: 60px;
+    }
+
+    .team_icn {
+        text-align: center;
+    }
+
+    .manager_txt p {
+        padding: 0px 0px;
+    }
+
+    .team_title h2 {
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .team_title h4 {
+        font-size: 25px;
+        text-align: center;
+    }
+
+    .awesome_icn {
+        padding-top: 55px;
+        margin-left: 40px;
+    }
+
+    .awesome_txt {
+        padding-top: 30px;
+    }
+
+    .awesome_icn i {
+        font-size: 40px;
+        padding: 30px;
+    }
+
+    .awesome_txt h2 {
+        font-size: 18px;
+        margin-top: 25px;
+    }
+
+    .awesome_txt h5 {
+        font-size: 15px;
+    }
+
+    .awesome_txt p {
+        font-size: 14px;
+    }
+
+    .nav-pills {
+        padding-left: 20px;
+    }
+
+    .gal_btn {
+        margin-top: 0px;
+        font-size: 16px;
+        padding: 8px 15px;
+    }
+
+    .creativ_item .button {
+        font-size: 13px;
+    }
+
+    .creativ_txt {
+        padding-top: 5px;
+    }
+
+    .creativ_txt h1 {
+        font-size: 30px;
+    }
+
+    .creativ_txt h2 {
+        font-size: 16px;
+    }
+
+    .creative_btn {
+        padding-top: 0px;
+    }
+
+    .creative_btn a {
+        padding: 10px 15px;
+        font-size: 13px;
+    }
+
+    .hpy_clients {
+        padding-top: 30px;
+    }
+
+    .touch_item {
+        position: inherit;
+        padding: 0 0px;
+        margin-top: -100px;
+    }
+
+    .touch_item {
+        bottom: 170px;
+    }
+
+    .touch_contract {
+        margin-top: 30px;
+    }
+
+    .pricing_item {
+        margin-bottom: 20px;
+    }
+
+    .pricing_btn a {
+        padding: 6px 10px;
+    }
+
+    .clients_img2 {
+        margin-right: 70px;
+    }
+
+    .touch_item {
+        bottom: -532px;
+    }
+
+    #map {
+        margin-top: 50px;
+    }
+}
